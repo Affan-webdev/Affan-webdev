@@ -1,5 +1,5 @@
 
-# Hi, I'm Muhammad 👋
+# Hi, I'm Muhammad Affan👋
 
 ### Junior Full-Stack Web Developer | Building Web Applications
 
