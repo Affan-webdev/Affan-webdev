@@ -35,7 +35,7 @@ I'm a junior web developer passionate about creating responsive, user-friendly w
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Affan-webdev
-- LinkedIn: linkedin.com/in/muhammadaffan113
+- LinkedIn: https://linkedin.com/in/muhammadaffan113
 
 ---
 
